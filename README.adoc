@@ -5,7 +5,7 @@ https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/docu
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 https://builds.gbif.org/job/course-introduction-to-gbif/lastBuild/console[image:https://builds.gbif.org/job/course-introduction-to-gbif/badge/icon[Build status]]
 
-= Introduction to GBIF course
+= GBIF course template
 
 _This is information *about* this document's source code.  It is not part of the document._
 
