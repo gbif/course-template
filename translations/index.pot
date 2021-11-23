@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-31 10:48+0000\n"
+"POT-Creation-Date: 2021-11-23 10:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -755,22 +755,22 @@ msgstr ""
 msgid "Suggested citation"
 msgstr ""
 
+#.  Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 #. type: Plain text
-#: colophon.en.adoc:6
+#: colophon.en.adoc:7
 msgid ""
 "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th "
-"edition. GBIF Secretariat: "
-"Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
+"edition. GBIF Secretariat: Copenhagen."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:7
+#: colophon.en.adoc:9
 #, no-wrap
 msgid "Contributors"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:10
+#: colophon.en.adoc:12
 msgid ""
 "The _Course Name_ was originally developed as part of ..., a programme "
 "funded by the ... The original curriculum was created by Name 1, Name 2, "
@@ -778,38 +778,31 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:11
+#: colophon.en.adoc:13
 #, no-wrap
 msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:14
+#: colophon.en.adoc:16
 msgid ""
 "_Course Name_ is licensed under "
 "https://creativecommons.org/licenses/by-sa/4.0[Creative Commons "
 "Attribution-ShareAlike 4.0 Unported License]."
 msgstr ""
 
+#.  Uncomment once a DOI is assigned.
+#. === Persistent URI
+#
+#. https://doi.org/10.EXAMPLE/EXAMPLE
 #. type: Title ===
-#: colophon.en.adoc:15
-#, no-wrap
-msgid "Persistent URI"
-msgstr ""
-
-#. type: Plain text
-#: colophon.en.adoc:18
-msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
-msgstr ""
-
-#. type: Title ===
-#: colophon.en.adoc:19
+#: colophon.en.adoc:22
 #, no-wrap
 msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:21
+#: colophon.en.adoc:24
 msgid "Third edition, April 2020"
 msgstr ""
 
